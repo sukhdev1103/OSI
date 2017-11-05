@@ -1,0 +1,7 @@
+Running From Ecllipse
+
+Import the project on the Ecllipse and Include All Jars.
+
+Properties -> JavaBuildPath ->Add External Jars   (Jars will be present inside /Sd/ContextAwareApplication/lib/)
+
+
