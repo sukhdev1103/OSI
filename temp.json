@@ -1,6 +1,6 @@
 {
-				          "Id": "22",
-				          "TypeName": "TypeName",
-				          "Value": "Value",
-				          "RoleIds":["RoleIds"]
-				        }
+	"Id": "22",
+	"TypeName": "TypeName",
+	"Value": "Value",
+	"RoleIds":["RoleIds"]
+}
