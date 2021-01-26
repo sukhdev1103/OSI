@@ -1,1 +1,2 @@
-Get a list of users from a Tenant. Optionally, get a list of requested users. Total number of users in the Tenant set in the Total-Count header.
+Get a list of users from a Tenant. 
+Optionally, get a list of requested users. Total number of users in the Tenant set in the Total-Count header.
