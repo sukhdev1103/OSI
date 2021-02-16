@@ -1,6 +1,14 @@
 {
 	"file:\Voltron\intro.txt" : "Hello World",
-	"file:\Voltron\intro.md":"",
+	"file:\Voltron\intro.md":"|Status Code|Body Type|Description|
+					|---|---|---|
+					|200|List of [User](#schemauser)s|List of Users found.|
+					|207|[UserMultiStatusResponse](#schemausermultistatusresponse)|List of Users found.|
+					|400|[ErrorResponse](#schemaerrorresponse)|Missing or invalid inputs.|
+					|401|[ErrorResponse](#schemaerrorresponse)|Unauthorized.|
+					|403|[ErrorResponse](#schemaerrorresponse)|Forbidden.|
+					|404|[ErrorResponse](#schemaerrorresponse)|Tenant not found.|
+					|500|[ErrorResponse](#schemaerrorresponse)|Internal server error.|",
 	"file:\Voltron\intro.json": "{  "Id": "22",
 					"TypeName": "TypeName",
 					"Value": "Value",
