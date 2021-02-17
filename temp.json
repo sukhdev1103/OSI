@@ -4,13 +4,13 @@
               "type": "string",
               "nullable": true
             },
-	"file:/Voltron/intro.md":"|Status Code|Body Type|Description|
-					|---|---|---|
-					|200|List of [User](#schemauser)s|List of Users found.|
-					|207|[UserMultiStatusResponse](#schemausermultistatusresponse)|List of Users found.|
-					|400|[ErrorResponse](#schemaerrorresponse)|Missing or invalid inputs.|
-					|401|[ErrorResponse](#schemaerrorresponse)|Unauthorized.|
-					|403|[ErrorResponse](#schemaerrorresponse)|Forbidden.|
-					|404|[ErrorResponse](#schemaerrorresponse)|Tenant not found.|
+	"file:/Voltron/intro.md":"|Status Code|Body Type|Description| \n
+					|---|---|---| \n
+					|200|List of [User](#schemauser)s|List of Users found.| \n
+					|207|[UserMultiStatusResponse](#schemausermultistatusresponse)|List of Users found.| \n
+					|400|[ErrorResponse](#schemaerrorresponse)|Missing or invalid inputs.| \n
+					|401|[ErrorResponse](#schemaerrorresponse)|Unauthorized.| \n
+					|403|[ErrorResponse](#schemaerrorresponse)|Forbidden.| \n
+					|404|[ErrorResponse](#schemaerrorresponse)|Tenant not found.| \n
 					|500|[ErrorResponse](#schemaerrorresponse)|Internal server error.|"
 }
