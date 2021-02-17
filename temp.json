@@ -3,6 +3,6 @@
 	"file:/Voltron/intro.json":  {  "Id": "22",
 					"TypeName": "TypeName",
 					"Value": "Value",
-					"RoleIds":["RoleIds"]"
+					"RoleIds":["RoleIds"]
 					}
 }
