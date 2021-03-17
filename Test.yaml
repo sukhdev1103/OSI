@@ -4,6 +4,7 @@ example:
     Several lines of text, 
     with some "quotes" of various 'types', 
     and also a blank line: 
+    // [here] https://pisquare.osisoft.com/docs/DOC-3986-msa-consent-for-azure-active-directory).
 example1:
   type: markdown
   value: |
@@ -16,3 +17,10 @@ example1:
     |403|[ErrorResponse](#schemaerrorresponse)|Forbidden.|
     |404|[ErrorResponse](#schemaerrorresponse)|Tenant not found.|
     |500|[ErrorResponse](#schemaerrorresponse)|Internal server error.|
+example2:
+  type: application/json
+  value: |
+    {
+      "val": 29,
+      "abc": "asd"
+    }  
