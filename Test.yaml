@@ -1,5 +1,5 @@
 example:
-  type: text/plain
+  type: markdown
   value: |
     Several lines of text, 
     with some "quotes" of various 'types', 
